@@ -1,1 +1,1 @@
-alert("Hola, " + prompt("Como te llamas?") + "!!! :-)");
+console.log("Hola, " + prompt("Como te llamas?") + "!!! :-)");

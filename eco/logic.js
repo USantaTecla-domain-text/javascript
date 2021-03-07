@@ -1,1 +1,1 @@
-alert(prompt("Hay eco, eco!!!\n'Di' algo:"));
+console.log(prompt("Hay eco, eco!!!\n'Di' algo:"));

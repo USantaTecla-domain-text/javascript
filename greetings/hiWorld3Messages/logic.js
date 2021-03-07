@@ -1,3 +1,3 @@
-alert("Hola, Mundo!!!");
-alert("Disculpa, no me despedí!!!");
-alert("Hasta luego!!!");
+console.log("Hola, Mundo!!!");
+console.log("Disculpa, no me despedí!!!");
+console.log("Hasta luego!!!");
