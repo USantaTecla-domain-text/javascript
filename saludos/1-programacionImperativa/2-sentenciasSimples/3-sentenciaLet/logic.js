@@ -1,3 +1,3 @@
-const name = prompt("Como te llamas?");
+let name = prompt("Como te llamas?");
 console.log("Hola, " + name + "!!! :-)");
 console.log("Adios, " + name + "!!! :-)");
